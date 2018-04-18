@@ -20,6 +20,10 @@
 
 ![Image 9-2](https://github.com/postlogist/systemsthinking/blob/master/stella/Chapter09/Image%209-2.png?raw=true)
 
+### Определение целевой аудитории
+
+
+
 
 
 
