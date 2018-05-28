@@ -63,4 +63,4 @@
 
 Первым шагом в расширении базовой модели является добавление популяции лисы. Вспомним два упрощающих предположения; на **Рисунке 9-4** изображена модель, включающая популяцию лис.
 
-![Image 9-4](https://github.com/postlogist/systemsthinking/blob/master/stella/Chapter09/Image%209-1.png?raw=true)
+![Image 9-4](https://github.com/postlogist/systemsthinking/blob/master/stella/Chapter09/Image%209-4.png?raw=true)
