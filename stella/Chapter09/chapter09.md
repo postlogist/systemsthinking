@@ -86,7 +86,7 @@
 
 ![Image 9-7](https://github.com/postlogist/systemsthinking/blob/master/stella/Chapter09/Image%209-7.png?raw=true)
 
-![Image 9-8](
+![Image 9-8](https://github.com/postlogist/systemsthinking/blob/master/stella/Chapter09/Image%209-8.png?raw=true)
 
 
 
