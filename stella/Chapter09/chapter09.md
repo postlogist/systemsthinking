@@ -143,7 +143,7 @@
 
 На **Рисунке 9-15** показано следующее воплощение модели, а на **Рисунке 9-16** изображена результирующая динамика.
 
-Image 9-15
+![Image 9-15](https://github.com/postlogist/systemsthinking/blob/master/stella/Chapter09/Image%209-15.png?raw=true)
 
 Image 9-16
 
