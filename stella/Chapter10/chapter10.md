@@ -85,7 +85,7 @@
 
 • Полезно использовать «Матрицу ключевых акторов» для сбора информации об условиях, действиях и ресурсах (см. **Рисунок 10-4**).
 
-![Image 10-3](https://github.com/postlogist/systemsthinking/blob/master/stella/Chapter10/Image%2010-4.png?raw=true)
+![Image 10-4](https://github.com/postlogist/systemsthinking/blob/master/stella/Chapter10/Image%2010-4.png?raw=true)
 
 ### Наиболее значительное накопление
 
@@ -127,7 +127,7 @@
 
 •	Избегайте «dead buffalos» (название, произошедшее от их вида на диаграмме; см. Рис. 10-6). Строки факторов, которые «коррелируются» или «влияют», - не одно и то же с оперативным изложением причинности. Избегайте мышления типа «Ключевые факторы успеха».
 
-Image 10-6
+![Image 10-6](https://github.com/postlogist/systemsthinking/blob/master/stella/Chapter10/Image%2010-6.png?raw=true)
 
 #### Принцип 6: Обозначьте цифрами
 
