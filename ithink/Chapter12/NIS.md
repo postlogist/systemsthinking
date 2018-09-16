@@ -2,5 +2,4 @@
 
 Сегодня я хотел бы представить небольшой отчёт по теме популярности вселенной Гарри Поттера в нашей стране за последние 5 лет на основе данных, взятых мною с ресурса __*Google Trends*__.
 
-https://trends.google.ru/trends/explore?date=today%205-y&geo=RU&q=%2Fm%2F03647x
-[Google Trends](https://trends.google.ru)
+[данные по запросу "Гарри Поттер" с источника Google Trends](https://trends.google.ru)
