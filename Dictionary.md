@@ -9,7 +9,7 @@
 7. A unit converted flow - поток конвертированных единиц
 8. Reservoir - резервуар
 9. Conveyor - конвейер
-10. Converter - конвертер, преобразователь
+10. Converter - преобразователь
 11. Connector - соединитель
 12. Queue - очередь
 13. Oven - печь
